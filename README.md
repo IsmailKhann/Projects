@@ -1,2 +1,2 @@
 # Projects
-AI/ML
+AI/ML- Projects are self explanatory !
